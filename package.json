@@ -1,5 +1,5 @@
 {
-  "name": "text-to-morse",
+  "name": "devops68-text-to-morse",
   "version": "1.0.0",
   "description": "API to convert text to Morse code",
   "main": "index.js",
